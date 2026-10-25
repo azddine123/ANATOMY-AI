@@ -1,0 +1,21 @@
+{
+  "name": "anatomy-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 4173",
+    "build": "vite build && node tools/build-offline.mjs",
+    "test": "node --test tests/*.test.js",
+    "import:anatomy": "python tools/fetch_sources.py && python tools/import_anatomy.py && python tools/software_lod.py && python tools/enrich_catalog.py && python tools/correct_nervous_catalog.py && python tools/audit_taxonomy.py && python tools/import_hra_ovary.py && python tools/data_health.py",
+    "check:medical-release": "node tools/check-medical-release.mjs",
+    "audit:data": "python tools/data_health.py"
+  },
+  "dependencies": {
+    "three": "0.180.0",
+    "lucide": "0.468.0"
+  },
+  "devDependencies": {
+    "vite": "6.1.0"
+  }
+}
