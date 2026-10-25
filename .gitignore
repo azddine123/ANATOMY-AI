@@ -1,0 +1,7 @@
+node_modules/
+.sites-runtime/
+data/source/*.zip
+data/source/*.tmp
+__pycache__/
+.pytest_cache/
+.env
