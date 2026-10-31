@@ -1,0 +1,2282 @@
+[
+  {
+    "meshId": "FJ1252",
+    "structureId": "FMA59763",
+    "sourceName": "gingiva of upper jaw",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "mucosa",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA59762"
+    ],
+    "reason": "Oral or intestinal structure; no artificial decomposition of source aggregate.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1253",
+    "structureId": "FMA59764",
+    "sourceName": "gingiva of lower jaw",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "mucosa",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA59762"
+    ],
+    "reason": "Oral or intestinal structure; no artificial decomposition of source aggregate.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1291",
+    "structureId": "FMA49073",
+    "sourceName": "left common tendinous ring",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "tendon",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA49071"
+    ],
+    "reason": "Common tendinous origin for extraocular muscles; region eye, tissue tendon.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1299",
+    "structureId": "FMA59103",
+    "sourceName": "left lacrimal gland",
+    "previousSystem": "other",
+    "system": "sensory",
+    "type": "gland",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA59101"
+    ],
+    "reason": "Accessory lacrimal apparatus of eye.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1301",
+    "structureId": "FMA59542",
+    "sourceName": "left lacrimal lake",
+    "previousSystem": "other",
+    "system": "sensory",
+    "type": "fluid_space",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA59402"
+    ],
+    "reason": "Accessory lacrimal apparatus of eye.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1302",
+    "structureId": "FMA59556",
+    "sourceName": "left nasolacrimal duct",
+    "previousSystem": "other",
+    "system": "sensory",
+    "type": "lacrimal_drainage",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA9703"
+    ],
+    "reason": "Accessory lacrimal apparatus of eye.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1309",
+    "structureId": "FMA59546",
+    "sourceName": "left lacrimal sac",
+    "previousSystem": "other",
+    "system": "sensory",
+    "type": "lacrimal_drainage",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA20289"
+    ],
+    "reason": "Accessory lacrimal apparatus of eye.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1331",
+    "structureId": "FMA58829",
+    "sourceName": "left vitreous body",
+    "previousSystem": "other",
+    "system": "sensory",
+    "type": "vitreous_body",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA58827"
+    ],
+    "reason": "Named vitreous body of eyeball.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1342",
+    "structureId": "FMA49072",
+    "sourceName": "right common tendinous ring",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "tendon",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA49071"
+    ],
+    "reason": "Common tendinous origin for extraocular muscles; region eye, tissue tendon.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1350",
+    "structureId": "FMA59102",
+    "sourceName": "right lacrimal gland",
+    "previousSystem": "other",
+    "system": "sensory",
+    "type": "gland",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA59101"
+    ],
+    "reason": "Accessory lacrimal apparatus of eye.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1352",
+    "structureId": "FMA59541",
+    "sourceName": "right lacrimal lake",
+    "previousSystem": "other",
+    "system": "sensory",
+    "type": "fluid_space",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA59402"
+    ],
+    "reason": "Accessory lacrimal apparatus of eye.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1353",
+    "structureId": "FMA59555",
+    "sourceName": "right nasolacrimal duct",
+    "previousSystem": "other",
+    "system": "sensory",
+    "type": "lacrimal_drainage",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA9703"
+    ],
+    "reason": "Accessory lacrimal apparatus of eye.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1360",
+    "structureId": "FMA59545",
+    "sourceName": "right lacrimal sac",
+    "previousSystem": "other",
+    "system": "sensory",
+    "type": "lacrimal_drainage",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA20289"
+    ],
+    "reason": "Accessory lacrimal apparatus of eye.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1382",
+    "structureId": "FMA58828",
+    "sourceName": "right vitreous body",
+    "previousSystem": "other",
+    "system": "sensory",
+    "type": "vitreous_body",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA58827"
+    ],
+    "reason": "Named vitreous body of eyeball.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1392",
+    "structureId": "FMA35192",
+    "sourceName": "interosseous membrane of right leg",
+    "previousSystem": "other",
+    "system": "skeletal",
+    "type": "syndesmosis",
+    "region": "lower_limb",
+    "sourceParents": [
+      "FMA35187"
+    ],
+    "reason": "Fibrous connection of paired long bones.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1392M",
+    "structureId": "FMA35193",
+    "sourceName": "interosseous membrane of left leg",
+    "previousSystem": "other",
+    "system": "skeletal",
+    "type": "syndesmosis",
+    "region": "lower_limb",
+    "sourceParents": [
+      "FMA35187"
+    ],
+    "reason": "Fibrous connection of paired long bones.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1423",
+    "structureId": "FMA58776",
+    "sourceName": "right iliotibial tract",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "fibrous_attachment",
+    "region": "lower_limb",
+    "sourceParents": [
+      "FMA51048"
+    ],
+    "reason": "Aponeurotic/fascial attachment; functional system and histological type are recorded separately.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1423M",
+    "structureId": "FMA58777",
+    "sourceName": "left iliotibial tract",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "fibrous_attachment",
+    "region": "lower_limb",
+    "sourceParents": [
+      "FMA51048"
+    ],
+    "reason": "Aponeurotic/fascial attachment; functional system and histological type are recorded separately.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1448",
+    "structureId": "FMA11336",
+    "sourceName": "linea alba",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "fibrous_attachment",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA9649"
+    ],
+    "reason": "Aponeurotic/fascial attachment; functional system and histological type are recorded separately.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1462",
+    "structureId": "FMA74077",
+    "sourceName": "set of right levatores costarum breves",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA71314"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1462M",
+    "structureId": "FMA74078",
+    "sourceName": "set of left levatores costarum breves",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA71314"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1463",
+    "structureId": "FMA74075",
+    "sourceName": "set of right levatores costarum longi",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA71313"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1463M",
+    "structureId": "FMA74076",
+    "sourceName": "set of left levatores costarum longi",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA71313"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1465",
+    "structureId": "FMA46442",
+    "sourceName": "tendinous arch of levator ani",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "fibrous_attachment",
+    "region": "pelvis",
+    "sourceParents": [
+      "FMA9721"
+    ],
+    "reason": "Aponeurotic/fascial attachment; functional system and histological type are recorded separately.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1465M",
+    "structureId": "FMA46442",
+    "sourceName": "tendinous arch of levator ani",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "fibrous_attachment",
+    "region": "pelvis",
+    "sourceParents": [
+      "FMA9721"
+    ],
+    "reason": "Aponeurotic/fascial attachment; functional system and histological type are recorded separately.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1471",
+    "structureId": "FMA40120",
+    "sourceName": "flexor retinaculum of right wrist",
+    "previousSystem": "sensory",
+    "system": "muscular",
+    "type": "deep_fascia",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA39988"
+    ],
+    "reason": "Retinaculum is a fascial restraint at wrist; substring matching is not an anatomical classification.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1471M",
+    "structureId": "FMA40121",
+    "sourceName": "flexor retinaculum of left wrist",
+    "previousSystem": "sensory",
+    "system": "muscular",
+    "type": "deep_fascia",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA39988"
+    ],
+    "reason": "Retinaculum is a fascial restraint at wrist; substring matching is not an anatomical classification.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1476",
+    "structureId": "FMA23707",
+    "sourceName": "interosseous membrane of right forearm",
+    "previousSystem": "sensory",
+    "system": "skeletal",
+    "type": "syndesmosis",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA23706"
+    ],
+    "reason": "Fibrous connection of paired long bones.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1476M",
+    "structureId": "FMA23708",
+    "sourceName": "interosseous membrane of left forearm",
+    "previousSystem": "sensory",
+    "system": "skeletal",
+    "type": "syndesmosis",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA23706"
+    ],
+    "reason": "Fibrous connection of paired long bones.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1509",
+    "structureId": "FMA42404",
+    "sourceName": "set of dorsal interossei of right hand",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA71319"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1509M",
+    "structureId": "FMA42405",
+    "sourceName": "set of dorsal interossei of left hand",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA71319"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1510",
+    "structureId": "FMA42398",
+    "sourceName": "set of lumbricals of right hand",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA71318"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1510M",
+    "structureId": "FMA42399",
+    "sourceName": "set of lumbricals of left hand",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA71318"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1511",
+    "structureId": "FMA42402",
+    "sourceName": "set of palmar interossei of right hand",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA71320"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1511M",
+    "structureId": "FMA42403",
+    "sourceName": "set of palmar interossei of left hand",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA71320"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1520",
+    "structureId": "FMA33581",
+    "sourceName": "ascending part of right trapezius",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": null,
+    "sourceParents": [
+      "FMA32555"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ1520M",
+    "structureId": "FMA33583",
+    "sourceName": "ascending part of left trapezius",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": null,
+    "sourceParents": [
+      "FMA32555"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ1521",
+    "structureId": "FMA33586",
+    "sourceName": "descending part of right trapezius",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": null,
+    "sourceParents": [
+      "FMA32557"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ1521M",
+    "structureId": "FMA33587",
+    "sourceName": "descending part of left trapezius",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": null,
+    "sourceParents": [
+      "FMA32557"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ1549",
+    "structureId": "FMA71442",
+    "sourceName": "set of anterior cervical intertransversarii",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA32558"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1549M",
+    "structureId": "FMA71442",
+    "sourceName": "set of anterior cervical intertransversarii",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA32558"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1550",
+    "structureId": "FMA71307",
+    "sourceName": "set of interspinales lumborum",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA50185"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1550M",
+    "structureId": "FMA71307",
+    "sourceName": "set of interspinales lumborum",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA50185"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1552",
+    "structureId": "FMA71309",
+    "sourceName": "set of interspinales cervicis",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA50185"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1552M",
+    "structureId": "FMA71309",
+    "sourceName": "set of interspinales cervicis",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA50185"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1553",
+    "structureId": "FMA71443",
+    "sourceName": "set of posterior cervical intertransversarii",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA32558"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1553M",
+    "structureId": "FMA71443",
+    "sourceName": "set of posterior cervical intertransversarii",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "skeletal_muscle_group",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA32558"
+    ],
+    "reason": "Named skeletal muscle/group; source grouping and bilateral ambiguity preserved.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1858",
+    "structureId": "FMA15747",
+    "sourceName": "hepatovenous segment ix",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "organ_segment",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA15737"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1883",
+    "structureId": "FMA71889",
+    "sourceName": "caudate lobe tributary of left hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71866"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1961",
+    "structureId": "FMA63822",
+    "sourceName": "posterior intercostal arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ1975",
+    "structureId": "FMA63822",
+    "sourceName": "posterior intercostal arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2090",
+    "structureId": "FMA70815",
+    "sourceName": "set of perforating arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": null,
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ2092",
+    "structureId": "FMA70821",
+    "sourceName": "set of common plantar digital arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "lower_limb",
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2093",
+    "structureId": "FMA70801",
+    "sourceName": "set of dorsal digital arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": null,
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ2094",
+    "structureId": "FMA70815",
+    "sourceName": "set of perforating arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": null,
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ2095",
+    "structureId": "FMA71564",
+    "sourceName": "set of plantar digital arteries proper",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "lower_limb",
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2127",
+    "structureId": "FMA70815",
+    "sourceName": "set of perforating arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": null,
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ2196",
+    "structureId": "FMA70821",
+    "sourceName": "set of common plantar digital arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "lower_limb",
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2197",
+    "structureId": "FMA70801",
+    "sourceName": "set of dorsal digital arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": null,
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ2203",
+    "structureId": "FMA70815",
+    "sourceName": "set of perforating arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": null,
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ2204",
+    "structureId": "FMA71564",
+    "sourceName": "set of plantar digital arteries proper",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "lower_limb",
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2205",
+    "structureId": "FMA71564",
+    "sourceName": "set of plantar digital arteries proper",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "lower_limb",
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2227",
+    "structureId": "FMA22840",
+    "sourceName": "left deep palmar arch",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA22838"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2229",
+    "structureId": "FMA22913",
+    "sourceName": "left deep palmar venous arch",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "vein",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA22911"
+    ],
+    "reason": "Named venous palmar arch.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2248",
+    "structureId": "FMA22837",
+    "sourceName": "left superficial palmar arterial arch",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA22834"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2249",
+    "structureId": "FMA22916",
+    "sourceName": "left superficial palmar venous arch",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "vein",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA22914"
+    ],
+    "reason": "Named venous palmar arch.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2279",
+    "structureId": "FMA22839",
+    "sourceName": "right deep palmar arch",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA22838"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2281",
+    "structureId": "FMA22912",
+    "sourceName": "right deep palmar venous arch",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "vein",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA22911"
+    ],
+    "reason": "Named venous palmar arch.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2300",
+    "structureId": "FMA22835",
+    "sourceName": "right superficial palmar arterial arch",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA22834"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2301",
+    "structureId": "FMA22915",
+    "sourceName": "right superficial palmar venous arch",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "vein",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA22914"
+    ],
+    "reason": "Named venous palmar arch.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2318",
+    "structureId": "FMA70801",
+    "sourceName": "set of dorsal digital arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": null,
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ2346",
+    "structureId": "FMA70801",
+    "sourceName": "set of dorsal digital arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": null,
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ2347",
+    "structureId": "FMA70800",
+    "sourceName": "set of dorsal metacarpal arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2348",
+    "structureId": "FMA70800",
+    "sourceName": "set of dorsal metacarpal arteries",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "artery",
+    "region": "upper_limb",
+    "sourceParents": [
+      "FMA63812"
+    ],
+    "reason": "Arterial branch/set; ambiguous digital/perforating region remains null.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2418",
+    "structureId": "FMA7265",
+    "sourceName": "anterolateral head of lateral papillary muscle of left ventricle",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "myocardium",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA86566"
+    ],
+    "reason": "Cardiac muscle is part of the heart, not skeletal musculature.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2419",
+    "structureId": "FMA7260",
+    "sourceName": "anterior papillary muscle of right ventricle",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "myocardium",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA268955"
+    ],
+    "reason": "Cardiac muscle is part of the heart, not skeletal musculature.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2429",
+    "structureId": "FMA7264",
+    "sourceName": "lateral papillary muscle of left ventricle",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "myocardium",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA268955"
+    ],
+    "reason": "Cardiac muscle is part of the heart, not skeletal musculature.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2430",
+    "structureId": "FMA7261",
+    "sourceName": "posterior papillary muscle of right ventricle",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "myocardium",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA268955"
+    ],
+    "reason": "Cardiac muscle is part of the heart, not skeletal musculature.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2437",
+    "structureId": "FMA7262",
+    "sourceName": "septal papillary muscle of right ventricle",
+    "previousSystem": "other",
+    "system": "cardiovascular",
+    "type": "myocardium",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA268955"
+    ],
+    "reason": "Cardiac muscle is part of the heart, not skeletal musculature.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2552",
+    "structureId": "FMA46442",
+    "sourceName": "tendinous arch of levator ani",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "fibrous_attachment",
+    "region": "pelvis",
+    "sourceParents": [
+      "FMA9721"
+    ],
+    "reason": "Aponeurotic/fascial attachment; functional system and histological type are recorded separately.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2553",
+    "structureId": "FMA46442",
+    "sourceName": "tendinous arch of levator ani",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "fibrous_attachment",
+    "region": "pelvis",
+    "sourceParents": [
+      "FMA9721"
+    ],
+    "reason": "Aponeurotic/fascial attachment; functional system and histological type are recorded separately.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2565",
+    "structureId": "FMA14542",
+    "sourceName": "appendix",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "organ_part",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA55672"
+    ],
+    "reason": "Oral or intestinal structure; no artificial decomposition of source aggregate.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2568",
+    "structureId": "FMA15044",
+    "sourceName": "taenia libera",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "muscle_band",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA15041"
+    ],
+    "reason": "Oral or intestinal structure; no artificial decomposition of source aggregate.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2569",
+    "structureId": "FMA15042",
+    "sourceName": "taenia mesocolica",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "muscle_band",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA15041"
+    ],
+    "reason": "Oral or intestinal structure; no artificial decomposition of source aggregate.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2570",
+    "structureId": "FMA15043",
+    "sourceName": "taenia omentalis",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "muscle_band",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA15041"
+    ],
+    "reason": "Oral or intestinal structure; no artificial decomposition of source aggregate.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2599",
+    "structureId": "FMA11338",
+    "sourceName": "ileocecal junction",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "organ_part",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA11337"
+    ],
+    "reason": "Oral or intestinal structure; no artificial decomposition of source aggregate.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2744",
+    "structureId": "FMA55620",
+    "sourceName": "left pterygomandibular raphe",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "fibrous_attachment",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA55618"
+    ],
+    "reason": "Aponeurotic/fascial attachment; functional system and histological type are recorded separately.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2749",
+    "structureId": "FMA55077",
+    "sourceName": "pharyngeal raphe",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "fibrous_attachment",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA9657"
+    ],
+    "reason": "Aponeurotic/fascial attachment; functional system and histological type are recorded separately.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2756",
+    "structureId": "FMA55619",
+    "sourceName": "right pterygomandibular raphe",
+    "previousSystem": "other",
+    "system": "muscular",
+    "type": "fibrous_attachment",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA55618"
+    ],
+    "reason": "Aponeurotic/fascial attachment; functional system and histological type are recorded separately.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2777",
+    "structureId": "FMA55252",
+    "sourceName": "left conus elasticus",
+    "previousSystem": "other",
+    "system": "respiratory",
+    "type": "fibrous_membrane",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA55250"
+    ],
+    "reason": "Fibroelastic support of larynx.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2786",
+    "structureId": "FMA55134",
+    "sourceName": "left thyrohyoid membrane",
+    "previousSystem": "other",
+    "system": "respiratory",
+    "type": "fibrous_membrane",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA55132"
+    ],
+    "reason": "Fibroelastic support of larynx.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2794",
+    "structureId": "FMA55251",
+    "sourceName": "right conus elasticus",
+    "previousSystem": "other",
+    "system": "respiratory",
+    "type": "fibrous_membrane",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA55250"
+    ],
+    "reason": "Fibroelastic support of larynx.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2804",
+    "structureId": "FMA55133",
+    "sourceName": "right thyrohyoid membrane",
+    "previousSystem": "other",
+    "system": "respiratory",
+    "type": "fibrous_membrane",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA55132"
+    ],
+    "reason": "Fibroelastic support of larynx.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2814",
+    "structureId": "FMA59816",
+    "sourceName": "lip",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "organ_part",
+    "region": "head_neck",
+    "sourceParents": [
+      "FMA46490"
+    ],
+    "reason": "Oral or intestinal structure; no artificial decomposition of source aggregate.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ2818",
+    "structureId": "FMA15739",
+    "sourceName": "hepatovenous segment ii",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "organ_segment",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA15737"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3071",
+    "structureId": "FMA71867",
+    "sourceName": "anterior superior tributary of right hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71865"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3072",
+    "structureId": "FMA71868",
+    "sourceName": "anterior inferior tributary of right hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71865"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3079",
+    "structureId": "FMA14668",
+    "sourceName": "common hepatic duct",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA14678"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3080",
+    "structureId": "FMA14539",
+    "sourceName": "cystic duct",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA14678"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3088",
+    "structureId": "FMA71887",
+    "sourceName": "lateral superior tributary of left hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71866"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3089",
+    "structureId": "FMA71888",
+    "sourceName": "lateral inferior tributary of left hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71866"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3090",
+    "structureId": "FMA71887",
+    "sourceName": "lateral superior tributary of left hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71866"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3096",
+    "structureId": "FMA14670",
+    "sourceName": "left hepatic duct",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA14678"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3103",
+    "structureId": "FMA71886",
+    "sourceName": "medial inferior tributary of left hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71866"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3104",
+    "structureId": "FMA71885",
+    "sourceName": "medial superior tributary of left hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71866"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3105",
+    "structureId": "FMA71885",
+    "sourceName": "medial superior tributary of left hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71866"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3108",
+    "structureId": "FMA71870",
+    "sourceName": "posterior inferior tributary of right hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71865"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3109",
+    "structureId": "FMA71869",
+    "sourceName": "posterior superior tributary of right hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71865"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3110",
+    "structureId": "FMA71869",
+    "sourceName": "posterior superior tributary of right hepatic biliary tree",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA71865"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3123",
+    "structureId": "FMA14669",
+    "sourceName": "right hepatic duct",
+    "previousSystem": "other",
+    "system": "digestive",
+    "type": "bile_duct",
+    "region": "abdomen",
+    "sourceParents": [
+      "FMA14678"
+    ],
+    "reason": "Liver segment or named biliary duct; hepatovenous segment is parenchymal territory.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3135",
+    "structureId": "FMA19236",
+    "sourceName": "left deferent duct",
+    "previousSystem": "other",
+    "system": "reproductive",
+    "type": "duct",
+    "region": null,
+    "sourceParents": [
+      "FMA19234"
+    ],
+    "reason": "Ductus deferens spans pelvic/inguinal/scrotal regions; no single region asserted.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ3140",
+    "structureId": "FMA19235",
+    "sourceName": "right deferent duct",
+    "previousSystem": "other",
+    "system": "reproductive",
+    "type": "duct",
+    "region": null,
+    "sourceParents": [
+      "FMA19234"
+    ],
+    "reason": "Ductus deferens spans pelvic/inguinal/scrotal regions; no single region asserted.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "NOT_YET_VALIDATED"
+  },
+  {
+    "meshId": "FJ3153",
+    "structureId": "FMA7488",
+    "sourceName": "xiphoid process",
+    "previousSystem": "other",
+    "system": "skeletal",
+    "type": "bone_part",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA67601"
+    ],
+    "reason": "Named part of sternum.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  },
+  {
+    "meshId": "FJ3178",
+    "structureId": "FMA7487",
+    "sourceName": "body of sternum",
+    "previousSystem": "other",
+    "system": "skeletal",
+    "type": "bone_part",
+    "region": "thorax",
+    "sourceParents": [
+      "FMA45734"
+    ],
+    "reason": "Named part of sternum.",
+    "references": [
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+      "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_inclusion_relation_list.txt"
+    ],
+    "status": "DATA_VERIFIED",
+    "medicalStatus": "MEDICAL_REVIEW_PENDING",
+    "regionStatus": "EDITORIAL_REVIEW_PENDING"
+  }
+]
