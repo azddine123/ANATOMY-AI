@@ -1,0 +1,32 @@
+{
+  "title": "3D Reference Organ for Ovary, Female, Left v1.1",
+  "creators": [
+    "Kristen Browne",
+    "Heidi Schlehlein"
+  ],
+  "year": 2022,
+  "publisher": "HuBMAP",
+  "source": "https://cdn.humanatlas.io/hra-releases/v1.2/models/VH_F_Ovary_L.glb",
+  "doi": "https://doi.org/10.48539/HBM499.JLMB.357",
+  "license": "CC BY 4.0",
+  "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseEvidence": "data/source/hra/3d-vh-f-ovary-l.md",
+  "retrievalDate": "2026-09-13",
+  "sourceSha256": "ed91414a667dec5e4e14aeaa2f8641731f06725dbc914bc0da3dd8b5d77f5062",
+  "metadataSha256": "b650f59ef0b23866c07d2a4b20e799ad96ad00104ddfb5a3c77fec5ce1c19520",
+  "modifications": [
+    "Translated vertices to local origin; no scale or orientation change",
+    "Mesh identifier renamed",
+    "Materials recolored at runtime",
+    "CPU fallback retains all 424 triangles"
+  ],
+  "sourceCenterMeters": [
+    0.04435500130057335,
+    0.060950277373194695,
+    -0.04546983726322651
+  ],
+  "sourceVertices": 214,
+  "triangles": 424,
+  "registrationStatus": "NOT_REGISTERED",
+  "medicalStatus": "MEDICAL_REVIEW_PENDING"
+}
