@@ -1,0 +1,862 @@
+{
+  "scope": "Initial non-exhaustive editorial checklist; external terminology mapping and expert review pending. Not an ontology export.",
+  "structures": [
+    {
+      "id": "REF:brain",
+      "name": "brain",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cerebellum",
+      "name": "cerebellum",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:pons",
+      "name": "pons",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:medulla_oblongata",
+      "name": "medulla oblongata",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:spinal_cord",
+      "name": "spinal cord",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cervical_spinal_cord",
+      "name": "cervical spinal cord",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:thoracic_spinal_cord",
+      "name": "thoracic spinal cord",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:lumbar_spinal_cord",
+      "name": "lumbar spinal cord",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:sacral_spinal_cord",
+      "name": "sacral spinal cord",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:conus_medullaris",
+      "name": "conus medullaris",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cauda_equina",
+      "name": "cauda equina",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:dorsal_root",
+      "name": "dorsal root",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:ventral_root",
+      "name": "ventral root",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:dorsal_root_ganglion",
+      "name": "dorsal root ganglion",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:spinal_nerve",
+      "name": "spinal nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cervical_plexus",
+      "name": "cervical plexus",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:brachial_plexus",
+      "name": "brachial plexus",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:lumbar_plexus",
+      "name": "lumbar plexus",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:sacral_plexus",
+      "name": "sacral plexus",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:median_nerve",
+      "name": "median nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:ulnar_nerve",
+      "name": "ulnar nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:radial_nerve",
+      "name": "radial nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:musculocutaneous_nerve",
+      "name": "musculocutaneous nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:axillary_nerve",
+      "name": "axillary nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:femoral_nerve",
+      "name": "femoral nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:obturator_nerve",
+      "name": "obturator nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:sciatic_nerve",
+      "name": "sciatic nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:tibial_nerve",
+      "name": "tibial nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:common_fibular_nerve",
+      "name": "common fibular nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:superior_gluteal_nerve",
+      "name": "superior gluteal nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:inferior_gluteal_nerve",
+      "name": "inferior gluteal nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:sympathetic_trunk",
+      "name": "sympathetic trunk",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cochlear_nerve",
+      "name": "cochlear nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:vestibular_nerve",
+      "name": "vestibular nerve",
+      "system": "nervous",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:ovary",
+      "name": "ovary",
+      "system": "female",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:uterus",
+      "name": "uterus",
+      "system": "female",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:uterine_tube",
+      "name": "uterine tube",
+      "system": "female",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:cervix",
+      "name": "cervix",
+      "system": "female",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:vagina",
+      "name": "vagina",
+      "system": "female",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:clitoris",
+      "name": "clitoris",
+      "system": "female",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:mammary_gland",
+      "name": "mammary gland",
+      "system": "female",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:spleen",
+      "name": "spleen",
+      "system": "lymphatic",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:thymus",
+      "name": "thymus",
+      "system": "lymphatic",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:lymph_node",
+      "name": "lymph node",
+      "system": "lymphatic",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:lymphatic_vessel",
+      "name": "lymphatic vessel",
+      "system": "lymphatic",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:thoracic_duct",
+      "name": "thoracic duct",
+      "system": "lymphatic",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:right_lymphatic_duct",
+      "name": "right lymphatic duct",
+      "system": "lymphatic",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:cisterna_chyli",
+      "name": "cisterna chyli",
+      "system": "lymphatic",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:palatine_tonsil",
+      "name": "palatine tonsil",
+      "system": "lymphatic",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:thyroid_gland",
+      "name": "thyroid gland",
+      "system": "endocrine",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:parathyroid_gland",
+      "name": "parathyroid gland",
+      "system": "endocrine",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:pituitary_gland",
+      "name": "pituitary gland",
+      "system": "endocrine",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:pineal_gland",
+      "name": "pineal gland",
+      "system": "endocrine",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:adrenal_gland",
+      "name": "adrenal gland",
+      "system": "endocrine",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:pancreatic_islet",
+      "name": "pancreatic islet",
+      "system": "endocrine",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:hypothalamus",
+      "name": "hypothalamus",
+      "system": "endocrine",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:external_ear",
+      "name": "external ear",
+      "system": "sensory",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:tympanic_membrane",
+      "name": "tympanic membrane",
+      "system": "sensory",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:malleus",
+      "name": "malleus",
+      "system": "sensory",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:incus",
+      "name": "incus",
+      "system": "sensory",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:stapes",
+      "name": "stapes",
+      "system": "sensory",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:cochlea",
+      "name": "cochlea",
+      "system": "sensory",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:semicircular_canal",
+      "name": "semicircular canal",
+      "system": "sensory",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:vestibule_of_inner_ear",
+      "name": "vestibule of inner ear",
+      "system": "sensory",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:retina",
+      "name": "retina",
+      "system": "sensory",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:lens",
+      "name": "lens",
+      "system": "sensory",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:skin",
+      "name": "skin",
+      "system": "skin",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:epidermis",
+      "name": "epidermis",
+      "system": "skin",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:dermis",
+      "name": "dermis",
+      "system": "skin",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:hypodermis",
+      "name": "hypodermis",
+      "system": "skin",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:hair_follicle",
+      "name": "hair follicle",
+      "system": "skin",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:sebaceous_gland",
+      "name": "sebaceous gland",
+      "system": "skin",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:sweat_gland",
+      "name": "sweat gland",
+      "system": "skin",
+      "cranialNumber": null,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": []
+    },
+    {
+      "id": "REF:cranial_1",
+      "name": "olfactory nerve",
+      "system": "nervous",
+      "cranialNumber": 1,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_2",
+      "name": "optic nerve",
+      "system": "nervous",
+      "cranialNumber": 2,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_3",
+      "name": "oculomotor nerve",
+      "system": "nervous",
+      "cranialNumber": 3,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_4",
+      "name": "trochlear nerve",
+      "system": "nervous",
+      "cranialNumber": 4,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_5",
+      "name": "trigeminal nerve",
+      "system": "nervous",
+      "cranialNumber": 5,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_6",
+      "name": "abducens nerve",
+      "system": "nervous",
+      "cranialNumber": 6,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_7",
+      "name": "facial nerve",
+      "system": "nervous",
+      "cranialNumber": 7,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_8",
+      "name": "vestibulocochlear nerve",
+      "system": "nervous",
+      "cranialNumber": 8,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_9",
+      "name": "glossopharyngeal nerve",
+      "system": "nervous",
+      "cranialNumber": 9,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_10",
+      "name": "vagus nerve",
+      "system": "nervous",
+      "cranialNumber": 10,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_11",
+      "name": "accessory nerve",
+      "system": "nervous",
+      "cranialNumber": 11,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    },
+    {
+      "id": "REF:cranial_12",
+      "name": "hypoglossal nerve",
+      "system": "nervous",
+      "cranialNumber": 12,
+      "ontologyId": null,
+      "reviewStatus": "PENDING",
+      "sourceReferences": [
+        "https://training.seer.cancer.gov/anatomy/nervous/organization/pns.html"
+      ]
+    }
+  ]
+}
