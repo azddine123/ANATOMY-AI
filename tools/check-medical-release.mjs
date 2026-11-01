@@ -1,0 +1,16 @@
+import fs from 'node:fs';
+import {medicalReleaseStatus,nervousCoverage} from '../src/core/coverage.js';
+const cat=JSON.parse(fs.readFileSync('public/catalog.json','utf8'));
+const issues=[];
+const health=JSON.parse(fs.readFileSync('docs/data-health.json','utf8'));
+const coverage=JSON.parse(fs.readFileSync('public/coverage-report.json','utf8'));
+const {createHash}=await import('node:crypto');
+const hash=createHash('sha256').update(fs.readFileSync('public/catalog.json')).digest('hex');
+if(health.catalogSha256!==hash||coverage.catalogSha256!==hash)issues.push('Audit is stale; regenerate before review.');
+if(health.errors.length||health.orphanMeshes.length||health.invalidParentRelationships.length)issues.push('Catalogue integrity checks failed.');
+if(!coverage.medicalReleaseReady||coverage.structures.some(s=>!s.geometryVerified||!s.metadataReviewed))issues.push('Reference geometry and medical descriptions are not reviewed.');
+if(!medicalReleaseStatus.ready||!medicalReleaseStatus.anatomicalReviewer)issues.push('Expert anatomical sign-off is missing.');
+for(const item of nervousCoverage)if(item.state!=='validated')issues.push(item.en+': '+item.state);
+const unreviewed=cat.structures.filter(s=>s.classificationStatus!=='expert-validated').length;
+if(unreviewed)issues.push(`${unreviewed} catalogue concepts lack expert classification approval.`);
+if(issues.length){console.error('MEDICAL REFERENCE RELEASE BLOCKED\n'+issues.join('\n'));process.exitCode=1;}else console.log('Medical reference release checks passed.');
